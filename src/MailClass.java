@@ -60,8 +60,13 @@ public class MailClass {
 		
 //		MemberService memberService1 = new MemberService(
 		
+		Student stu1 = new Student();
+		
+		Student stu2 = new Student(null, null,a,null);
 		
 		
+			
+			
 		
 	}
 
